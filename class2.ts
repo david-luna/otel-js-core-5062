@@ -1,4 +1,4 @@
 export declare class MyClass {
-  private prop;
+  // private prop;
   method(): void;
 }
